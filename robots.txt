@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eaterbif.github.io/sitemap
+Sitemap: https://eaterbif.github.io/app/sitemap
+Sitemap: https://eaterbif.github.io/assets/sitemap
+Sitemap: https://eaterbif.github.io/css/sitemap
+Sitemap: https://eaterbif.github.io/includes/sitemap
+Sitemap: https://eaterbif.github.io/item/sitemap
+Sitemap: https://eaterbif.github.io/src/sitemap
